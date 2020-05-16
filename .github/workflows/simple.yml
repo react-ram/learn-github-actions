@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: echo a string
-        run: eccho "hello wworld"
+        run: echo "hello wworld"
       - name: multiline script
         run: |
           npm -v
