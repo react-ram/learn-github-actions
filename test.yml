@@ -20,7 +20,7 @@ jsonArray: [item1, item2]
 
 objectsArray:
   - key: value
-    key4: value22
+    key4: value223
   - key2: value2
     key3: value2
 
